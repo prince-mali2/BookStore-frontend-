@@ -1,0 +1,14 @@
+.cart-book-detail {
+  border: 1px solid #707070;
+  width: 70%;
+  height: auto;
+}
+
+.bookDescription-body {
+  display: flex;
+  width: 78%;
+  margin-left: 11%;
+  margin-top: 2%;
+  flex-direction: column;
+  justify-content: space-between;
+}

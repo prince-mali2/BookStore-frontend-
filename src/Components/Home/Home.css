@@ -1,0 +1,38 @@
+.home-container {
+  width: 100vw;
+  height: auto;
+}
+
+.home-header {
+  width: 100%;
+  height: 5.5em;
+}
+
+.home-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.book-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.home-footer {
+  background-color: #2e1d1e;
+  height: 2.5em;
+  color: white;
+  display: flex;
+  align-items: center;
+  margin-top: 9.1em;
+}
+
+.pagination-container {
+  margin-top: 20px;
+  height: 40px;
+  background-color: #c3bebe;
+}
